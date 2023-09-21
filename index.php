@@ -1,3 +1,5 @@
 <?php
 
-echo "Prueba de PHP";
+$nPrueba = 2;
+
+echo "Prueba de PHP" . $nPrueba;
