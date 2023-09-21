@@ -1,3 +1,3 @@
 <?php
 
-echo "Hola, Mundo.";
+echo "Prueba de Joomla";
