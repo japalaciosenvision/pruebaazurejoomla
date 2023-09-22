@@ -1,3 +1,5 @@
-<?php
+<p>
+    <?php echo "Prueba de PHP"; ?>
+</p>
 
-echo "Prueba de PHP";
+<?php include 'fichero2.php'; ?>
